@@ -1,0 +1,17 @@
+---
+title: "Jessalyn Sebastian"
+about:
+  id: me
+  template: broadside
+  image: img/me.jpg
+---
+
+:::{#me}
+
+## PhD Student in Statistics at the University of California, Irvine
+
+I am a PhD student studying [Statistics at UCI](https://www.stat.uci.edu), advised by [Dr. Volodymyr Minin](https://vnminin.github.io). My research interests include stochastic processes, Monte Carlo methods, Bayesian modeling with applications in infectious disease epidemiology, and statistics education.
+
+My current methodological work focuses on Gauss-Markov stochastic process priors for $R_t$, the effective reproduction number. I am also working on applied projects exploring respiratory virus transmission dynamics in Cambodia and tuberculosis transmission among immunocompromised individuals in Botswana.
+
+:::

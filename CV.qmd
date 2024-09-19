@@ -1,0 +1,76 @@
+---
+title: "Curriculum Vitae"
+toc: true
+toc-location: left
+toc-title: CV
+---
+
+## Education
+
+- 2024; **M.S. Statistics**, University of California, Irvine (UCI)
+
+- 2021; **B.S. Statistics and Data Science** (*summa cum laude*), minor in Physics, University of California, Santa Barbara (UCSB)
+
+## Publications
+- Li, H., Zhou, M., **Sebastian, J.**, Wu, J., & Gu, M. (2022). *Efficient Force Field and energy emulation through partition of permutationally equivalent atoms.* The Journal of Chemical Physics, 156(18), 184304. [https://doi.org/10.1063/5.0088017](https://doi.org/10.1063/5.0088017)
+
+## Presentations and Posters
+- *Gaussian Process Priors with Markov Properties for Effective Reproduction Number Estimation* (Presentation). **Joint Statistical Meetings**, Portland, OR, August 2024.
+
+- *Takeaways from Readings Selected by the Dogucu Research Group* (Flash Talk). **Electronic Conference on Teaching Statistics**: Regional Conference at UC Irvine, Irvine, CA, June 2024.
+
+- *The Ornstein-Uhlenbeck Prior for Effective Reproduction Number Estimation* (Poster). **UCI Data Science Initiative: Statistical and Machine Learning Applications in Biomedical Sciences Workshop**, Irvine, CA, February 2024.
+
+## Internships
+
+- 2024; **Centers for Disease Control and Prevention (CDC) Centers for Forecasting and Outbreak Analysis**: Summer Internship in Forecasting and Outbreak Analytics, Nowcasting and Natural History team.
+
+## Software
+
+- **`epinowcast`**: Tools to enable flexible and efficient hierarchical nowcasting of epidemiological time-series using a semi-mechanistic Bayesian model with support for a range of reporting and generative processes. (*author: contributed issues, code review, PRs*) [https://github.com/epinowcast/epinowcast](https://github.com/epinowcast/epinowcast)
+
+## Teaching
+
+### Instructor
+
+- Summer 2023; **STATS 67: Introduction to Probability and Statistics for Computer Science**, UCI Statistics Department
+
+### Teaching Assistant
+- 2021-2022; **STATS 7: Basic Statistics**, UCI Statistics Department
+
+- 2021; **STATS 8: Introduction to Biological Statistics**, UCI Statistics Department
+
+### Learning Assistant
+- 2020-2021; **PSTAT 5A: Introduction to Statistics**, UCSB Statistics and Applied Probability Department (PSTAT)
+
+### Tutor
+- 2020-2021; **PSTAT 109: Statistics for Economics**, UCSB Campus Learning Assistive Services (CLAS)
+
+## Service
+- 2024-present; **Pacific Alliance for Low-income Inclusion in Statistics and Data Science** (PALiISaDS) Mentor
+
+- 2024-present; **Graduate Student Representative**, UCI Statistics Department 
+
+- 2023-present; **Diverse Educational Community and Doctoral Experience** (DECADE) Student Representative, UCI Statistics Department
+
+- 2023-present; **Brown Bag Seminar Organizer**, UCI Statistics Department
+
+- 2017-2020; **Queer and Transgender Student Engagement Chair (QTSEC) and community council member**, UCSB Residential Housing Association (RHA)
+
+
+## Academic Honors
+- 2020; Phi Beta Kappa Society
+
+- 2017-2021; UCSB Regents Scholarship
+
+- 2017-2021; UCSB Dean’s Honors
+
+
+## Programming Languages
+
+#### Proficient
+R, Python, Stan
+
+#### Familiar
+C++, Julia, SAS, MATLAB
+

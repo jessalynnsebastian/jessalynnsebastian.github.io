@@ -1,0 +1,27 @@
+project:
+  type: website
+  output-dir: docs
+  
+website:
+  title: "Jessalyn Sebastian"
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+      - href: CV.qmd
+        text: CV
+    tools:
+      - icon: github
+        href: https://github.com/jessalynnsebastian
+  page-footer:
+    left: "Last Updated: September 2024"
+    right: "Built with [Quarto](https://quarto.org/)"
+
+format:
+  html:
+    theme: minty
+    toc: false
+    css: custom.css
+
+editor: source
+

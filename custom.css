@@ -1,0 +1,30 @@
+.navbar {
+    background-color: #1dc8db;
+  }
+
+.navbar-brand {
+    font-size: 2rem;
+  }
+
+.navbar .nav-link {
+    font-size: 2rem;
+}
+
+body {
+  font-size: 20px;
+}
+  
+h1 {
+  font-size: 36px;
+  font-weight: 550;
+}
+
+h2{
+  font-size: 28px;
+  font-weight: 400;
+}
+
+h3{
+  font-size: 24px;
+  font-weight: 400;
+}

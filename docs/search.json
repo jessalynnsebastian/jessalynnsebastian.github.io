@@ -1,0 +1,121 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Jessalyn Sebastian",
+    "section": "",
+    "text": "I am a PhD student studying Statistics at UCI, advised by Dr. Volodymyr Minin. My research interests include stochastic processes, Monte Carlo methods, Bayesian modeling with applications in infectious disease epidemiology, and statistics education.\nMy current methodological work focuses on Gauss-Markov stochastic process priors for \\(R_t\\), the effective reproduction number. I am also working on applied projects exploring respiratory virus transmission dynamics in Cambodia and tuberculosis transmission among immunocompromised individuals in Botswana."
+  },
+  {
+    "objectID": "projects.html#project-2",
+    "href": "projects.html#project-2",
+    "title": "Projects",
+    "section": "Project 2",
+    "text": "Project 2"
+  },
+  {
+    "objectID": "projects.html#project-3",
+    "href": "projects.html#project-3",
+    "title": "Projects",
+    "section": "Project 3",
+    "text": "Project 3"
+  },
+  {
+    "objectID": "CV.html#project-2",
+    "href": "CV.html#project-2",
+    "title": "CV",
+    "section": "Project 2",
+    "text": "Project 2"
+  },
+  {
+    "objectID": "CV.html#project-3",
+    "href": "CV.html#project-3",
+    "title": "CV",
+    "section": "Project 3",
+    "text": "Project 3"
+  },
+  {
+    "objectID": "index.html#university-of-california-irvine",
+    "href": "index.html#university-of-california-irvine",
+    "title": "Jessalyn Sebastian",
+    "section": "",
+    "text": "I am a PhD student studying Statistics at UCI, advised by Dr. Volodymyr Minin. My research interests include stochastic processes, Monte Carlo methods, Bayesian modeling with applications in infectious disease epidemiology, and statistics education."
+  },
+  {
+    "objectID": "index.html#phd-student-in-statistics-at-the-university-of-california-irvine",
+    "href": "index.html#phd-student-in-statistics-at-the-university-of-california-irvine",
+    "title": "Jessalyn Sebastian",
+    "section": "",
+    "text": "I am a PhD student studying Statistics at UCI, advised by Dr. Volodymyr Minin. My research interests include stochastic processes, Monte Carlo methods, Bayesian modeling with applications in infectious disease epidemiology, and statistics education.\nMy current methodological work focuses on Gauss-Markov stochastic process priors for \\(R_t\\), the effective reproduction number. I am also working on applied projects exploring respiratory virus transmission dynamics in Cambodia and tuberculosis transmission among immunocompromised individuals in Botswana."
+  },
+  {
+    "objectID": "CV.html",
+    "href": "CV.html",
+    "title": "Curriculum Vitae",
+    "section": "",
+    "text": "2024; M.S. Statistics, University of California, Irvine (UCI)\n2021; B.S. Statistics and Data Science (summa cum laude), minor in Physics, University of California, Santa Barbara (UCSB)"
+  },
+  {
+    "objectID": "CV.html#education",
+    "href": "CV.html#education",
+    "title": "Curriculum Vitae",
+    "section": "",
+    "text": "2024; M.S. Statistics, University of California, Irvine (UCI)\n2021; B.S. Statistics and Data Science (summa cum laude), minor in Physics, University of California, Santa Barbara (UCSB)"
+  },
+  {
+    "objectID": "CV.html#publications",
+    "href": "CV.html#publications",
+    "title": "Curriculum Vitae",
+    "section": "Publications",
+    "text": "Publications\n\nLi, H., Zhou, M., Sebastian, J., Wu, J., & Gu, M. (2022). Efficient Force Field and energy emulation through partition of permutationally equivalent atoms. The Journal of Chemical Physics, 156(18), 184304. https://doi.org/10.1063/5.0088017"
+  },
+  {
+    "objectID": "CV.html#presentations-and-posters",
+    "href": "CV.html#presentations-and-posters",
+    "title": "Curriculum Vitae",
+    "section": "Presentations and Posters",
+    "text": "Presentations and Posters\n\nGaussian Process Priors with Markov Properties for Effective Reproduction Number Estimation (Presentation). Joint Statistical Meetings, Portland, OR, August 2024.\nTakeaways from Readings Selected by the Dogucu Research Group (Flash Talk). Electronic Conference on Teaching Statistics: Regional Conference at UC Irvine, Irvine, CA, June 2024.\nThe Ornstein-Uhlenbeck Prior for Effective Reproduction Number Estimation (Poster). UCI Data Science Initiative: Statistical and Machine Learning Applications in Biomedical Sciences Workshop, Irvine, CA, February 2024."
+  },
+  {
+    "objectID": "CV.html#internships",
+    "href": "CV.html#internships",
+    "title": "Curriculum Vitae",
+    "section": "Internships",
+    "text": "Internships\n\n2024; Centers for Disease Control and Prevention (CDC) Centers for Forecasting and Outbreak Analysis: Summer Internship in Forecasting and Outbreak Analytics, Nowcasting and Natural History team."
+  },
+  {
+    "objectID": "CV.html#software",
+    "href": "CV.html#software",
+    "title": "Curriculum Vitae",
+    "section": "Software",
+    "text": "Software\n\nepinowcast: Tools to enable flexible and efficient hierarchical nowcasting of epidemiological time-series using a semi-mechanistic Bayesian model with support for a range of reporting and generative processes. (author: contributed issues, code review, PRs) https://github.com/epinowcast/epinowcast"
+  },
+  {
+    "objectID": "CV.html#teaching",
+    "href": "CV.html#teaching",
+    "title": "Curriculum Vitae",
+    "section": "Teaching",
+    "text": "Teaching\n\nInstructor\n\nSummer 2023; STATS 67: Introduction to Probability and Statistics for Computer Science, UCI Statistics Department\n\n\n\nTeaching Assistant\n\n2021-2022; STATS 7: Basic Statistics, UCI Statistics Department\n2021; STATS 8: Introduction to Biological Statistics, UCI Statistics Department\n\n\n\nLearning Assistant\n\n2020-2021; PSTAT 5A: Introduction to Statistics, UCSB Statistics and Applied Probability Department (PSTAT)\n\n\n\nTutor\n\n2020-2021; PSTAT 109: Statistics for Economics, UCSB Campus Learning Assistive Services (CLAS)"
+  },
+  {
+    "objectID": "CV.html#service",
+    "href": "CV.html#service",
+    "title": "Curriculum Vitae",
+    "section": "Service",
+    "text": "Service\n\n2024-present; Pacific Alliance for Low-income Inclusion in Statistics and Data Science (PALiISaDS) Mentor\n2024-present; Graduate Student Representative, UCI Statistics Department\n2023-present; Diverse Educational Community and Doctoral Experience (DECADE) Student Representative, UCI Statistics Department\n2023-present; Brown Bag Seminar Organizer, UCI Statistics Department\n2017-2020; Queer and Transgender Student Engagement Chair (QTSEC) and community council member, UCSB Residential Housing Association (RHA)"
+  },
+  {
+    "objectID": "CV.html#academic-honors",
+    "href": "CV.html#academic-honors",
+    "title": "Curriculum Vitae",
+    "section": "Academic Honors",
+    "text": "Academic Honors\n\n2020; Phi Beta Kappa Society\n2017-2021; UCSB Regents Scholarship\n2017-2021; UCSB Dean’s Honors"
+  },
+  {
+    "objectID": "CV.html#programming-languages",
+    "href": "CV.html#programming-languages",
+    "title": "Curriculum Vitae",
+    "section": "Programming Languages",
+    "text": "Programming Languages\n\nProficient\nR, Python, Stan\n\n\nFamiliar\nC++, Julia, SAS, MATLAB"
+  }
+]
