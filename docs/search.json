@@ -1,54 +1,5 @@
 [
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Jessalyn Sebastian",
-    "section": "",
-    "text": "I am a PhD student studying Statistics at UCI, advised by Dr. Volodymyr Minin. My research interests include stochastic processes, Monte Carlo methods, Bayesian modeling with applications in infectious disease epidemiology, and statistics education.\nMy current methodological work focuses on Gauss-Markov stochastic process priors for \\(R_t\\), the effective reproduction number. I am also working on applied projects exploring respiratory virus transmission dynamics in Cambodia and tuberculosis transmission among immunocompromised individuals in Botswana."
-  },
-  {
-    "objectID": "projects.html#project-2",
-    "href": "projects.html#project-2",
-    "title": "Projects",
-    "section": "Project 2",
-    "text": "Project 2"
-  },
-  {
-    "objectID": "projects.html#project-3",
-    "href": "projects.html#project-3",
-    "title": "Projects",
-    "section": "Project 3",
-    "text": "Project 3"
-  },
-  {
-    "objectID": "CV.html#project-2",
-    "href": "CV.html#project-2",
-    "title": "CV",
-    "section": "Project 2",
-    "text": "Project 2"
-  },
-  {
-    "objectID": "CV.html#project-3",
-    "href": "CV.html#project-3",
-    "title": "CV",
-    "section": "Project 3",
-    "text": "Project 3"
-  },
-  {
-    "objectID": "index.html#university-of-california-irvine",
-    "href": "index.html#university-of-california-irvine",
-    "title": "Jessalyn Sebastian",
-    "section": "",
-    "text": "I am a PhD student studying Statistics at UCI, advised by Dr. Volodymyr Minin. My research interests include stochastic processes, Monte Carlo methods, Bayesian modeling with applications in infectious disease epidemiology, and statistics education."
-  },
-  {
-    "objectID": "index.html#phd-student-in-statistics-at-the-university-of-california-irvine",
-    "href": "index.html#phd-student-in-statistics-at-the-university-of-california-irvine",
-    "title": "Jessalyn Sebastian",
-    "section": "",
-    "text": "I am a PhD student studying Statistics at UCI, advised by Dr. Volodymyr Minin. My research interests include stochastic processes, Monte Carlo methods, Bayesian modeling with applications in infectious disease epidemiology, and statistics education.\nMy current methodological work focuses on Gauss-Markov stochastic process priors for \\(R_t\\), the effective reproduction number. I am also working on applied projects exploring respiratory virus transmission dynamics in Cambodia and tuberculosis transmission among immunocompromised individuals in Botswana."
-  },
-  {
     "objectID": "CV.html",
     "href": "CV.html",
     "title": "Curriculum Vitae",
@@ -117,5 +68,19 @@
     "title": "Curriculum Vitae",
     "section": "Programming Languages",
     "text": "Programming Languages\n\nProficient\nR, Python, Stan\n\n\nFamiliar\nC++, Julia, SAS, MATLAB"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Jessalyn Sebastian",
+    "section": "",
+    "text": "I am a PhD student studying Statistics at UCI, advised by Dr. Volodymyr Minin. My research interests include stochastic processes, Monte Carlo methods, Bayesian modeling with applications in infectious disease epidemiology, and statistics education.\nMy current methodological work focuses on Gauss-Markov stochastic process priors for \\(R_t\\), the effective reproduction number. I am also working on applied projects exploring respiratory virus transmission dynamics in Cambodia and tuberculosis transmission among immunocompromised individuals in Botswana."
+  },
+  {
+    "objectID": "index.html#phd-student-in-statistics-at-the-university-of-california-irvine",
+    "href": "index.html#phd-student-in-statistics-at-the-university-of-california-irvine",
+    "title": "Jessalyn Sebastian",
+    "section": "",
+    "text": "I am a PhD student studying Statistics at UCI, advised by Dr. Volodymyr Minin. My research interests include stochastic processes, Monte Carlo methods, Bayesian modeling with applications in infectious disease epidemiology, and statistics education.\nMy current methodological work focuses on Gauss-Markov stochastic process priors for \\(R_t\\), the effective reproduction number. I am also working on applied projects exploring respiratory virus transmission dynamics in Cambodia and tuberculosis transmission among immunocompromised individuals in Botswana."
   }
 ]
