@@ -3,7 +3,7 @@ title: "Jessalyn Sebastian"
 about:
   id: me
   template: broadside
-  image: img/me.jpg
+  image: img/IMG_1122.JPG
 ---
 
 :::{#me}
