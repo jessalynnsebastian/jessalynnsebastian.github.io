@@ -8,10 +8,10 @@ about:
 
 :::{#me}
 
-## PhD Student in Statistics at the University of California, Irvine
+## PhD Candidate in Statistics at the University of California, Irvine
 
-I am a PhD student studying [Statistics at UCI](https://www.stat.uci.edu), advised by [Dr. Volodymyr Minin](https://vnminin.github.io). My research interests include stochastic processes, Monte Carlo methods, Bayesian modeling with applications in infectious disease epidemiology, and statistics education.
+I am a PhD candidate studying [Statistics at UCI](https://www.stat.uci.edu), advised by [Dr. Volodymyr Minin](https://vnminin.github.io). My research interests include stochastic processes, model robustness and prior sensitivity analysis, and more broadly Bayesian modeling with applications in infectious disease epidemiology. I am also interested in statistics education.
 
-My current methodological work focuses on Gauss-Markov stochastic process priors for $R_t$, the effective reproduction number. I am also working on applied projects exploring respiratory virus transmission dynamics in Cambodia and tuberculosis transmission among immunocompromised individuals in Botswana.
+My current methodological work focuses on fast, interpretable Bayesian methods for smoothing and inference using Gaussian process priors with Markov properties. In addition, I work on applied projects using Bayesian phylogenetic methods to study respiratory virus and tuberculosis transmission.
 
 :::
