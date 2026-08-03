@@ -10,7 +10,7 @@ about:
 
 ## PhD Candidate in Statistics at the University of California, Irvine
 
-I am a PhD candidate studying [Statistics at UCI](https://www.stat.uci.edu), advised by [Dr. Volodymyr Minin](https://vnminin.github.io). My research focuses on developing Bayesian methods that are flexible enough to address complex scientific questions while remaining transparent, robust, and usable in substantive applications. I am particularly interested in stochastic processes, latent function inference, and the role of modeling assumptions and prior choices in statistical inference, with applications in infectious disease epidemiology. I am also interested in statistics education.
+I am a PhD candidate studying [Statistics at UCI](https://www.stat.uci.edu), advised by [Dr. Volodymyr Minin](https://vnminin.github.io). My research focuses on developing Bayesian methods that are flexible enough to address complex scientific questions but transparent and robust enough for use by practitioners. I am particularly interested in stochastic processes, latent function inference, and the role of modeling assumptions and prior choices in statistical inference, with applications in infectious disease epidemiology. I am also interested in statistics education.
 
 My current methodological work develops computationally efficient Bayesian methods for smoothing and latent function inference using Gaussian process priors with Markov structure. I also work on collaborative applied projects using Bayesian phylogenetic methods to study respiratory virus and tuberculosis transmission.
 
