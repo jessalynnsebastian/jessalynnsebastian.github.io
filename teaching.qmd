@@ -1,0 +1,85 @@
+---
+title: "Teaching"
+---
+
+I approach teaching with the belief that rigor and compassion are not competing goals. My role is not to remove the difficulty inherent in statistical and mathematical reasoning, but to give students the clarity, support, and sense of purpose they need to engage seriously with difficult material and develop into confident, independent thinkers.
+
+My teaching is organized around four broad principles: (1) I use rigorous assessment but pair it with clear expectations; (2) I situate statistical problems in socially meaningful or scientifically relevant contexts that show students what statistics is for; (3) I engage students in authentic statistical thinking, including the choices and ambiguity that characterize statistical practice; and (4) I try to create a nonjudgmental environment where students feel able to work through uncertainty and take intellectual risks.
+
+[**Read my full teaching portfolio →**](docs/jsebastian_portfolio.pdf)
+
+## Selected Teaching Work
+
+### Transparent assessment
+
+I design assessments around explicit statements of what students should be able to *do*. I provide students with detailed lists of expected competencies before each exam, and exam questions then assess those proficiencies without revealing in advance exactly which questions students will encounter.
+
+In a post-exam survey, more than 90% of students described the exam expectations as clear or very clear, while only 15% described the course as easy. This reflects the balance I aim for: assessments should challenge students to meet high expectations, not to decipher them.
+
+### Meaningful contexts
+
+I use scientific and social contexts to help students understand what statistical methods allow us to learn about the world. I survey students at the beginning of a course about their interests and backgrounds and use their responses to inform examples throughout the term.
+
+This interest also led me to develop [**deitasets**](https://jessalynnsebastian.github.io/deitasets/), an R package of datasets with contemporary social and political relevance designed for statistics instruction.
+
+### Authentic statistical reasoning
+
+I want students to encounter statistics as a discipline involving choices, judgment, and reasoning rather than the mechanical application of procedures. What this looks like depends on students' preparation. In more mathematical statistics courses, for example, I ask students to use probability, calculus, and linear algebra to reason about estimators and statistical methods. In introductory statistics, my activities instead ask students to critique study designs, reason through ambiguity, interpret evidence, and make defensible statistical choices.
+
+I also developed an [interactive browser-based R tool for introductory statistics courses](https://jessalynnsebastian.github.io/intro_stat_shiny_r/) that allows students with no previous programming experience to construct and execute real R code through a graphical interface. The goal is to provide a bridge between point-and-click statistical software and programming from scratch.
+
+### A nonjudgmental environment
+
+Students enter quantitative courses with very different mathematical backgrounds, prior experiences, and levels of confidence. I use beginning-of-term surveys to identify these differences and address common anxieties directly in the first class meeting.
+
+During lectures, I also use completely anonymous question submission ([Slido](https://www.slido.com)) so that students can ask for clarification without having to identify themselves in front of many classmates. In general, I try to distinguish the intellectual difficulty inherent in learning statistics from barriers that unnecessarily prevent students from engaging with that difficulty.
+
+## Teaching Experience
+
+### Instructor of Record
+
+- **STATS 8: Introduction to Biological Statistics**, UCI Statistics Department  
+  Spring 2026 · 211 students · Coordinated 3 teaching assistants and 1 grader
+
+- **STATS 67: Introduction to Probability and Statistics for Computer Science**, UCI Statistics Department  
+  Summer 2023 and Summer 2026 · 24 and 13 students
+
+### Teaching Assistant
+
+- **STATS 230: Statistical Computing**, UCI Statistics Department  
+  Winter 2025 and Winter 2026 · Graduate core course
+
+- **STATS 211: Generalized Linear Models**, UCI Statistics Department  
+  Winter 2026 · Graduate core course
+
+- **STATS 8: Introduction to Biological Statistics**, UCI Statistics Department  
+  Winter 2022
+
+- **STATS 7: Basic Statistics**, UCI Statistics Department  
+  2021–2022
+
+### Research Mentoring
+
+- **Summer Institute in Biostatistics (SIBS)**  
+  Mentored four undergraduate students through a six-week collaborative research project that developed into a manuscript.
+
+### Earlier Teaching
+
+- **PSTAT 5A: Introduction to Statistics**, Learning Assistant, UCSB Statistics and Applied Probability Department, 2020–2021
+
+- **PSTAT 109: Statistics for Economics**, Tutor, UCSB Campus Learning Assistance Services, 2020–2021
+
+## Evidence of Teaching Effectiveness
+
+In STATS 8, 175 of 211 students (83%) completed the official end-of-term evaluation:
+
+- **95%** agreed or strongly agreed that material was presented in a way that helped them understand it.
+- **93%** agreed or strongly agreed that opportunities for learning helped them better understand the material.
+- **90%** agreed or strongly agreed that they would recommend me as an instructor.
+- **85%** agreed or strongly agreed that the course broadened their perspectives.
+
+In STATS 67, students rated me **8.94/9 for accessibility and responsiveness**, **8.78/9 for creating an open and fair learning environment**, and **8.56/9 for encouraging students to think**.
+
+> “I remember Jessalyn at the start of the quarter saying she hopes we see the world differently after this class. I have good news for her, I do.”
+
+My [**full teaching portfolio**](docs/jsebastian_portfolio.pdf) includes representative course materials, annotated assessments and activities, additional student feedback, discussion of my engagement with statistics and mathematics education scholarship, and reflections on how my teaching has developed over time.
