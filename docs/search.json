@@ -4,14 +4,14 @@
     "href": "CV.html",
     "title": "Curriculum Vitae",
     "section": "",
-    "text": "2024; M.S. Statistics, University of California, Irvine (UCI)\n2021; B.S. Statistics and Data Science (summa cum laude), minor in Physics, University of California, Santa Barbara (UCSB)"
+    "text": "Download CV as a PDF"
   },
   {
     "objectID": "CV.html#education",
     "href": "CV.html#education",
     "title": "Curriculum Vitae",
-    "section": "",
-    "text": "2024; M.S. Statistics, University of California, Irvine (UCI)\n2021; B.S. Statistics and Data Science (summa cum laude), minor in Physics, University of California, Santa Barbara (UCSB)"
+    "section": "Education",
+    "text": "Education\n\n2024; M.S. Statistics, University of California, Irvine (UCI)\n2021; B.S. Statistics and Data Science (summa cum laude), minor in Physics, University of California, Santa Barbara (UCSB)"
   },
   {
     "objectID": "CV.html#publications",
@@ -77,11 +77,11 @@
     "text": "I approach teaching with the belief that rigor and compassion are not competing goals. My role is not to remove the difficulty inherent in statistical and mathematical reasoning, but to give students the clarity, support, and sense of purpose they need to engage seriously with difficult material and develop into confident, independent thinkers.\nMy teaching is organized around four broad principles: (1) I use rigorous assessment but pair it with clear expectations; (2) I situate statistical problems in socially meaningful or scientifically relevant contexts that show students what statistics is for; (3) I engage students in authentic statistical thinking, including the choices and ambiguity that characterize statistical practice; and (4) I try to create a nonjudgmental environment where students feel able to work through uncertainty and take intellectual risks.\nRead my full teaching portfolio →"
   },
   {
-    "objectID": "teaching.html#selected-teaching-work",
-    "href": "teaching.html#selected-teaching-work",
+    "objectID": "teaching.html#selected-projects",
+    "href": "teaching.html#selected-projects",
     "title": "Teaching",
-    "section": "Selected Teaching Work",
-    "text": "Selected Teaching Work\n\nTransparent assessment\nI design assessments around explicit statements of what students should be able to do. I provide students with detailed lists of expected competencies before each exam, and exam questions then assess those proficiencies without revealing in advance exactly which questions students will encounter.\nIn a post-exam survey, more than 90% of students described the exam expectations as clear or very clear, while only 15% described the course as easy. This reflects the balance I aim for: assessments should challenge students to meet high expectations, not to decipher them.\n\n\nMeaningful contexts\nI use scientific and social contexts to help students understand what statistical methods allow us to learn about the world. I survey students at the beginning of a course about their interests and backgrounds and use their responses to inform examples throughout the term.\nThis interest also led me to develop deitasets, an R package of datasets with contemporary social and political relevance designed for statistics instruction.\n\n\nAuthentic statistical reasoning\nI want students to encounter statistics as a discipline involving choices, judgment, and reasoning rather than the mechanical application of procedures. What this looks like depends on students’ preparation. In more mathematical statistics courses, for example, I ask students to use probability, calculus, and linear algebra to reason about estimators and statistical methods. In introductory statistics, my activities instead ask students to critique study designs, reason through ambiguity, interpret evidence, and make defensible statistical choices.\nI also developed an interactive browser-based R tool for introductory statistics courses that allows students with no previous programming experience to construct and execute real R code through a graphical interface. The goal is to provide a bridge between point-and-click statistical software and programming from scratch.\n\n\nA nonjudgmental environment\nStudents enter quantitative courses with very different mathematical backgrounds, prior experiences, and levels of confidence. I use beginning-of-term surveys to identify these differences and address common anxieties directly in the first class meeting.\nDuring lectures, I also use completely anonymous question submission (Slido) so that students can ask for clarification without having to identify themselves in front of many classmates. In general, I try to distinguish the intellectual difficulty inherent in learning statistics from barriers that unnecessarily prevent students from engaging with that difficulty."
+    "section": "Selected Projects",
+    "text": "Selected Projects\n\ndeitasets — An R package of contemporary, socially relevant datasets for statistics education.\nInteractive R tools for introductory statistics — Browser-based tools that help students transition from point-and-click statistical computing to working with real R code."
   },
   {
     "objectID": "teaching.html#teaching-experience",

@@ -5,6 +5,8 @@ toc-location: left
 toc-title: CV
 ---
 
+[**Download CV as a PDF**](CV_JS.pdf)
+
 ## Education
 
 - 2024; **M.S. Statistics**, University of California, Irvine (UCI)
@@ -73,4 +75,3 @@ R, Python, Stan
 
 #### Familiar
 C++, Julia, SAS, MATLAB
-
