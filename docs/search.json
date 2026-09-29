@@ -1,73 +1,17 @@
 [
   {
-    "objectID": "CV.html",
-    "href": "CV.html",
-    "title": "Curriculum Vitae",
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Jessalyn Sebastian",
     "section": "",
-    "text": "Download CV as a PDF"
+    "text": "I am a PhD candidate studying Statistics at UCI, advised by Dr. Volodymyr Minin. My research focuses on developing Bayesian methods that are flexible enough to address complex scientific questions but transparent and robust enough for use by practitioners. I am particularly interested in stochastic processes, latent function inference, and the role of modeling assumptions and prior choices in statistical inference, with applications in infectious disease epidemiology. I am also interested in statistics education.\nMy current methodological work develops computationally efficient Bayesian methods for smoothing and latent function inference using Gaussian process priors with Markov structure. I also work on collaborative applied projects using Bayesian phylogenetic methods to study respiratory virus and tuberculosis transmission."
   },
   {
-    "objectID": "CV.html#education",
-    "href": "CV.html#education",
-    "title": "Curriculum Vitae",
-    "section": "Education",
-    "text": "Education\n\n2024; M.S. Statistics, University of California, Irvine (UCI)\n2021; B.S. Statistics and Data Science (summa cum laude), minor in Physics, University of California, Santa Barbara (UCSB)"
-  },
-  {
-    "objectID": "CV.html#publications",
-    "href": "CV.html#publications",
-    "title": "Curriculum Vitae",
-    "section": "Publications",
-    "text": "Publications\n\nLi, H., Zhou, M., Sebastian, J., Wu, J., & Gu, M. (2022). Efficient Force Field and energy emulation through partition of permutationally equivalent atoms. The Journal of Chemical Physics, 156(18), 184304. https://doi.org/10.1063/5.0088017"
-  },
-  {
-    "objectID": "CV.html#presentations-and-posters",
-    "href": "CV.html#presentations-and-posters",
-    "title": "Curriculum Vitae",
-    "section": "Presentations and Posters",
-    "text": "Presentations and Posters\n\nGaussian Process Priors with Markov Properties for Effective Reproduction Number Estimation (Presentation). Joint Statistical Meetings, Portland, OR, August 2024.\nTakeaways from Readings Selected by the Dogucu Research Group (Flash Talk). Electronic Conference on Teaching Statistics: Regional Conference at UC Irvine, Irvine, CA, June 2024.\nThe Ornstein-Uhlenbeck Prior for Effective Reproduction Number Estimation (Poster). UCI Data Science Initiative: Statistical and Machine Learning Applications in Biomedical Sciences Workshop, Irvine, CA, February 2024."
-  },
-  {
-    "objectID": "CV.html#internships",
-    "href": "CV.html#internships",
-    "title": "Curriculum Vitae",
-    "section": "Internships",
-    "text": "Internships\n\n2024; Centers for Disease Control and Prevention (CDC) Centers for Forecasting and Outbreak Analysis: Summer Internship in Forecasting and Outbreak Analytics, Nowcasting and Natural History team."
-  },
-  {
-    "objectID": "CV.html#software",
-    "href": "CV.html#software",
-    "title": "Curriculum Vitae",
-    "section": "Software",
-    "text": "Software\n\nepinowcast: Tools to enable flexible and efficient hierarchical nowcasting of epidemiological time-series using a semi-mechanistic Bayesian model with support for a range of reporting and generative processes. (author: contributed issues, code review, PRs) https://github.com/epinowcast/epinowcast"
-  },
-  {
-    "objectID": "CV.html#teaching",
-    "href": "CV.html#teaching",
-    "title": "Curriculum Vitae",
-    "section": "Teaching",
-    "text": "Teaching\n\nInstructor\n\nSummer 2023; STATS 67: Introduction to Probability and Statistics for Computer Science, UCI Statistics Department\n\n\n\nTeaching Assistant\n\n2021-2022; STATS 7: Basic Statistics, UCI Statistics Department\n2021; STATS 8: Introduction to Biological Statistics, UCI Statistics Department\n\n\n\nLearning Assistant\n\n2020-2021; PSTAT 5A: Introduction to Statistics, UCSB Statistics and Applied Probability Department (PSTAT)\n\n\n\nTutor\n\n2020-2021; PSTAT 109: Statistics for Economics, UCSB Campus Learning Assistive Services (CLAS)"
-  },
-  {
-    "objectID": "CV.html#service",
-    "href": "CV.html#service",
-    "title": "Curriculum Vitae",
-    "section": "Service",
-    "text": "Service\n\n2024-present; Pacific Alliance for Low-income Inclusion in Statistics and Data Science (PALiISaDS) Mentor\n2024-present; Graduate Student Representative, UCI Statistics Department\n2023-present; Diverse Educational Community and Doctoral Experience (DECADE) Student Representative, UCI Statistics Department\n2023-present; Brown Bag Seminar Organizer, UCI Statistics Department\n2017-2020; Queer and Transgender Student Engagement Chair (QTSEC) and community council member, UCSB Residential Housing Association (RHA)"
-  },
-  {
-    "objectID": "CV.html#academic-honors",
-    "href": "CV.html#academic-honors",
-    "title": "Curriculum Vitae",
-    "section": "Academic Honors",
-    "text": "Academic Honors\n\n2020; Phi Beta Kappa Society\n2017-2021; UCSB Regents Scholarship\n2017-2021; UCSB Dean’s Honors"
-  },
-  {
-    "objectID": "CV.html#programming-languages",
-    "href": "CV.html#programming-languages",
-    "title": "Curriculum Vitae",
-    "section": "Programming Languages",
-    "text": "Programming Languages\n\nProficient\nR, Python, Stan\n\n\nFamiliar\nC++, Julia, SAS, MATLAB"
+    "objectID": "index.html#phd-candidate-in-statistics-at-the-university-of-california-irvine",
+    "href": "index.html#phd-candidate-in-statistics-at-the-university-of-california-irvine",
+    "title": "Jessalyn Sebastian",
+    "section": "",
+    "text": "I am a PhD candidate studying Statistics at UCI, advised by Dr. Volodymyr Minin. My research focuses on developing Bayesian methods that are flexible enough to address complex scientific questions but transparent and robust enough for use by practitioners. I am particularly interested in stochastic processes, latent function inference, and the role of modeling assumptions and prior choices in statistical inference, with applications in infectious disease epidemiology. I am also interested in statistics education.\nMy current methodological work develops computationally efficient Bayesian methods for smoothing and latent function inference using Gaussian process priors with Markov structure. I also work on collaborative applied projects using Bayesian phylogenetic methods to study respiratory virus and tuberculosis transmission."
   },
   {
     "objectID": "teaching.html",
@@ -96,19 +40,5 @@
     "title": "Teaching",
     "section": "Evidence of Teaching Effectiveness",
     "text": "Evidence of Teaching Effectiveness\nIn STATS 8, 175 of 211 students (83%) completed the official end-of-term evaluation:\n\n95% agreed or strongly agreed that material was presented in a way that helped them understand it.\n93% agreed or strongly agreed that opportunities for learning helped them better understand the material.\n90% agreed or strongly agreed that they would recommend me as an instructor.\n85% agreed or strongly agreed that the course broadened their perspectives.\n\nIn STATS 67, students rated me 8.94/9 for accessibility and responsiveness, 8.78/9 for creating an open and fair learning environment, and 8.56/9 for encouraging students to think.\n\n“I remember Jessalyn at the start of the quarter saying she hopes we see the world differently after this class. I have good news for her, I do.”\n\nMy full teaching portfolio includes representative course materials, annotated assessments and activities, additional student feedback, discussion of my engagement with statistics and mathematics education scholarship, and reflections on how my teaching has developed over time."
-  },
-  {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Jessalyn Sebastian",
-    "section": "",
-    "text": "I am a PhD candidate studying Statistics at UCI, advised by Dr. Volodymyr Minin. My research focuses on developing Bayesian methods that are flexible enough to address complex scientific questions but transparent and robust enough for use by practitioners. I am particularly interested in stochastic processes, latent function inference, and the role of modeling assumptions and prior choices in statistical inference, with applications in infectious disease epidemiology. I am also interested in statistics education.\nMy current methodological work develops computationally efficient Bayesian methods for smoothing and latent function inference using Gaussian process priors with Markov structure. I also work on collaborative applied projects using Bayesian phylogenetic methods to study respiratory virus and tuberculosis transmission."
-  },
-  {
-    "objectID": "index.html#phd-candidate-in-statistics-at-the-university-of-california-irvine",
-    "href": "index.html#phd-candidate-in-statistics-at-the-university-of-california-irvine",
-    "title": "Jessalyn Sebastian",
-    "section": "",
-    "text": "I am a PhD candidate studying Statistics at UCI, advised by Dr. Volodymyr Minin. My research focuses on developing Bayesian methods that are flexible enough to address complex scientific questions but transparent and robust enough for use by practitioners. I am particularly interested in stochastic processes, latent function inference, and the role of modeling assumptions and prior choices in statistical inference, with applications in infectious disease epidemiology. I am also interested in statistics education.\nMy current methodological work develops computationally efficient Bayesian methods for smoothing and latent function inference using Gaussian process priors with Markov structure. I also work on collaborative applied projects using Bayesian phylogenetic methods to study respiratory virus and tuberculosis transmission."
   }
 ]
