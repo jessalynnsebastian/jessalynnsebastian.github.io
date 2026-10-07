@@ -10,13 +10,20 @@ website:
         text: Home
       - href: CV_JS.pdf
         text: CV
+      - href: research.qmd
+        text: Research
       - href: teaching.qmd
         text: Teaching
+      - href: fun.qmd
+        text: Fun
     tools:
       - icon: github
         href: https://github.com/jessalynnsebastian
+      - icon: mortarboard-fill
+        href: https://scholar.google.com/citations?user=1qve2FgAAAAJ&hl=en
+        text: Google Scholar
   page-footer:
-    left: "Last updated September 2026"
+    left: "Last updated October 2026"
     right: "Built with [Quarto](https://quarto.org/)"
 
 format:

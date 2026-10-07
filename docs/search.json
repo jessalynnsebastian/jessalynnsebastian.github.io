@@ -4,21 +4,35 @@
     "href": "index.html",
     "title": "Jessalyn Sebastian",
     "section": "",
-    "text": "I am a PhD candidate studying Statistics at UCI, advised by Dr. Volodymyr Minin. My research focuses on developing Bayesian methods that are flexible enough to address complex scientific questions but transparent and robust enough for use by practitioners. I am particularly interested in stochastic processes, latent function inference, and the role of modeling assumptions and prior choices in statistical inference, with applications in infectious disease epidemiology. I am also interested in statistics education.\nMy current methodological work develops computationally efficient Bayesian methods for smoothing and latent function inference using Gaussian process priors with Markov structure. I also work on collaborative applied projects using Bayesian phylogenetic methods to study respiratory virus and tuberculosis transmission."
+    "text": "I am a PhD candidate studying Statistics at UCI, advised by Dr. Volodymyr Minin. My research focuses on developing Bayesian methods that are flexible enough to address complex scientific questions but transparent and robust enough for use by practitioners. I am particularly interested in stochastic processes, latent function inference, and the role of modeling assumptions and prior choices in statistical inference, with applications in infectious disease epidemiology. I am also interested in statistics education.\nMy current methodological work develops computationally efficient Bayesian methods for smoothing and latent function inference using Gaussian process priors with Markov structure. I also work on collaborative applied projects using Bayesian phylogenetic methods to study respiratory virus and tuberculosis transmission.\nI also spend time not doing statistics, because variety is the spice of life. I enjoy reading, writing, crochet and other handcrafts, television of many different genres, learning about medicine and human anatomy, and making coffee and tea."
   },
   {
     "objectID": "index.html#phd-candidate-in-statistics-at-the-university-of-california-irvine",
     "href": "index.html#phd-candidate-in-statistics-at-the-university-of-california-irvine",
     "title": "Jessalyn Sebastian",
     "section": "",
-    "text": "I am a PhD candidate studying Statistics at UCI, advised by Dr. Volodymyr Minin. My research focuses on developing Bayesian methods that are flexible enough to address complex scientific questions but transparent and robust enough for use by practitioners. I am particularly interested in stochastic processes, latent function inference, and the role of modeling assumptions and prior choices in statistical inference, with applications in infectious disease epidemiology. I am also interested in statistics education.\nMy current methodological work develops computationally efficient Bayesian methods for smoothing and latent function inference using Gaussian process priors with Markov structure. I also work on collaborative applied projects using Bayesian phylogenetic methods to study respiratory virus and tuberculosis transmission."
+    "text": "I am a PhD candidate studying Statistics at UCI, advised by Dr. Volodymyr Minin. My research focuses on developing Bayesian methods that are flexible enough to address complex scientific questions but transparent and robust enough for use by practitioners. I am particularly interested in stochastic processes, latent function inference, and the role of modeling assumptions and prior choices in statistical inference, with applications in infectious disease epidemiology. I am also interested in statistics education.\nMy current methodological work develops computationally efficient Bayesian methods for smoothing and latent function inference using Gaussian process priors with Markov structure. I also work on collaborative applied projects using Bayesian phylogenetic methods to study respiratory virus and tuberculosis transmission.\nI also spend time not doing statistics, because variety is the spice of life. I enjoy reading, writing, crochet and other handcrafts, television of many different genres, learning about medicine and human anatomy, and making coffee and tea."
+  },
+  {
+    "objectID": "research.html",
+    "href": "research.html",
+    "title": "Research",
+    "section": "",
+    "text": "My research focuses on Bayesian methods for latent function inference and stochastic processes, with applications in infectious disease epidemiology. I am especially interested in computationally efficient methods and in how modeling assumptions affect statistical conclusions."
+  },
+  {
+    "objectID": "research.html#selected-publications",
+    "href": "research.html#selected-publications",
+    "title": "Research",
+    "section": "Selected Publications",
+    "text": "Selected Publications\nGaussian process priors with Markov properties for effective reproduction number inference\nJournal of the Royal Statistical Society, Series A (2026), with Volodymyr M. Minin\nComputationally efficient Gaussian process priors with Markov properties for estimating changes in disease transmission over time.\nUnjustified Poisson assumptions lead to overconfident estimates of the effective reproductive number\nEpidemiology & Infection (2026), with Barbora Němcová, Isaac H. Goldstein, Volodymyr M. Minin, and Johannes Bracher\nInvestigation of how observation model assumptions affect uncertainty in estimates of the effective reproduction number.\nMapping sub-national respiratory virus circulation in Cambodia using metatranscriptomic sequencing: a multi-center hospital-based surveillance study\nInfluenza and Other Respiratory Viruses (2026), with Christina Yek and collaborators\nA study of the geographic and temporal circulation of respiratory viruses in Cambodia.\nHIV remains a risk factor for unfavorable tuberculosis treatment outcomes in the era of universal access to antiretroviral therapy in Botswana\nmedRxiv preprint (2025), with ISI-BUDS students from summer 2025\nAn analysis of the relationship between HIV and tuberculosis treatment outcomes in Botswana."
   },
   {
     "objectID": "teaching.html",
     "href": "teaching.html",
     "title": "Teaching",
     "section": "",
-    "text": "I approach teaching with the belief that rigor and compassion are not competing goals. My role is not to remove the difficulty inherent in statistical and mathematical reasoning, but to give students the clarity, support, and sense of purpose they need to engage seriously with difficult material and develop into confident, independent thinkers.\nMy teaching is organized around four broad principles: (1) I use rigorous assessment but pair it with clear expectations; (2) I situate statistical problems in socially meaningful or scientifically relevant contexts that show students what statistics is for; (3) I engage students in authentic statistical thinking, including the choices and ambiguity that characterize statistical practice; and (4) I try to create a nonjudgmental environment where students feel able to work through uncertainty and take intellectual risks.\nRead my full teaching portfolio →"
+    "text": "I approach teaching with the belief that rigor and compassion are not competing goals. My teaching is organized around four broad principles: (1) I use rigorous assessment but pair it with clear expectations; (2) I situate statistical problems in socially meaningful or scientifically relevant contexts that show students what statistics is for; (3) I engage students in authentic statistical thinking, including the choices and ambiguity that characterize statistical practice; and (4) I try to create a nonjudgmental environment where students feel able to work through uncertainty and take intellectual risks.\nFull teaching portfolio →"
   },
   {
     "objectID": "teaching.html#selected-projects",
@@ -40,5 +54,40 @@
     "title": "Teaching",
     "section": "Evidence of Teaching Effectiveness",
     "text": "Evidence of Teaching Effectiveness\nIn STATS 8, 175 of 211 students (83%) completed the official end-of-term evaluation:\n\n95% agreed or strongly agreed that material was presented in a way that helped them understand it.\n93% agreed or strongly agreed that opportunities for learning helped them better understand the material.\n90% agreed or strongly agreed that they would recommend me as an instructor.\n85% agreed or strongly agreed that the course broadened their perspectives.\n\nIn STATS 67, students rated me 8.94/9 for accessibility and responsiveness, 8.78/9 for creating an open and fair learning environment, and 8.56/9 for encouraging students to think.\n\n“I remember Jessalyn at the start of the quarter saying she hopes we see the world differently after this class. I have good news for her, I do.”\n\nMy full teaching portfolio includes representative course materials, annotated assessments and activities, additional student feedback, discussion of my engagement with statistics and mathematics education scholarship, and reflections on how my teaching has developed over time."
+  },
+  {
+    "objectID": "fun.html",
+    "href": "fun.html",
+    "title": "Fun Things",
+    "section": "",
+    "text": "Below are some non-academic things I am interested in or have been thinking about recently.\n\n\n\n\nI learned to crochet when I was very young, but didn’t get really into it until around 2022. I’ve been really enjoying blanket patterns by Helen Shrimpton because of their interesting shapes and variety of stitches.\n\n\n\n\n\n\n\n\n\n\n\n\nAt the Orange County Fair\nMy lantana-inspired blanket won first place in its category in 2026!\n\n\n\n\n\nRose of Avalon in lantana colors\nA full view of the finished blanket\n\n\n\n\n\nThe Lost Garden in green and brown\nA gift for my parents that matches their decor\n\n\n\n\n\nArcadia in pink and yellow\nA gift for my close friend who couldn’t choose between pink and yellow so I said, why not both?!\n\n\n\n\n\nHearts doily\nMy first attempt at using crochet thread"
+  },
+  {
+    "objectID": "fun.html#crochet",
+    "href": "fun.html#crochet",
+    "title": "Fun Things",
+    "section": "",
+    "text": "I learned to crochet when I was very young, but didn’t get really into it until around 2022. I’ve been really enjoying blanket patterns by Helen Shrimpton because of their interesting shapes and variety of stitches."
+  },
+  {
+    "objectID": "fun.html#reading",
+    "href": "fun.html#reading",
+    "title": "Fun Things",
+    "section": "Reading",
+    "text": "Reading\nMy favorite genres tend to be science fiction and urban fantasy, but I can be convinced to read pretty much anything. Here are some things I’ve read and enjoyed recently:"
+  },
+  {
+    "objectID": "fun.html#latte-art",
+    "href": "fun.html#latte-art",
+    "title": "Fun Things",
+    "section": "Latte art",
+    "text": "Latte art\nI have loved coffee and tea of all kinds for a very long time, from black light-roast filter coffee to sugary lattes to lightly sweetened Assam. In the last few months, I have been trying to improve my latte art in a small cortado cup (which I love, from notNeutral)."
+  },
+  {
+    "objectID": "fun.html#things-im-listening-to-or-watching",
+    "href": "fun.html#things-im-listening-to-or-watching",
+    "title": "Fun Things",
+    "section": "Things I’m listening to or watching",
+    "text": "Things I’m listening to or watching\nI’ve had to do quite a lot of driving in the last year, so I’ve jumped into the world of podcasts for the first time, but I’ve always enjoyed some good (and bad) television. Here are some things I’ve enjoyed recently:"
   }
 ]

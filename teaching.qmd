@@ -2,11 +2,9 @@
 title: "Teaching"
 ---
 
-I approach teaching with the belief that rigor and compassion are not competing goals. My role is not to remove the difficulty inherent in statistical and mathematical reasoning, but to give students the clarity, support, and sense of purpose they need to engage seriously with difficult material and develop into confident, independent thinkers.
+I approach teaching with the belief that rigor and compassion are not competing goals. My teaching is organized around four broad principles: (1) I use rigorous assessment but pair it with clear expectations; (2) I situate statistical problems in socially meaningful or scientifically relevant contexts that show students what statistics is for; (3) I engage students in authentic statistical thinking, including the choices and ambiguity that characterize statistical practice; and (4) I try to create a nonjudgmental environment where students feel able to work through uncertainty and take intellectual risks.
 
-My teaching is organized around four broad principles: (1) I use rigorous assessment but pair it with clear expectations; (2) I situate statistical problems in socially meaningful or scientifically relevant contexts that show students what statistics is for; (3) I engage students in authentic statistical thinking, including the choices and ambiguity that characterize statistical practice; and (4) I try to create a nonjudgmental environment where students feel able to work through uncertainty and take intellectual risks.
-
-[**Read my full teaching portfolio →**](jsebastian_portfolio.pdf)
+[**Full teaching portfolio →**](jsebastian_portfolio.pdf)
 
 ## Selected Projects
 

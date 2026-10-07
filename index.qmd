@@ -14,4 +14,6 @@ I am a PhD candidate studying [Statistics at UCI](https://www.stat.uci.edu), adv
 
 My current methodological work develops computationally efficient Bayesian methods for smoothing and latent function inference using Gaussian process priors with Markov structure. I also work on collaborative applied projects using Bayesian phylogenetic methods to study respiratory virus and tuberculosis transmission.
 
+I also spend time not doing statistics, because variety is the spice of life. I enjoy reading, writing, crochet and other handcrafts, television of many different genres, learning about medicine and human anatomy, and making coffee and tea.
+
 :::

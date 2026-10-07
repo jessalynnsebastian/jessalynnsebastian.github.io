@@ -1,0 +1,23 @@
+---
+title: "Research"
+---
+
+My research focuses on Bayesian methods for latent function inference and stochastic processes, with applications in infectious disease epidemiology. I am especially interested in computationally efficient methods and in how modeling assumptions affect statistical conclusions.
+
+## Selected Publications
+
+**[Gaussian process priors with Markov properties for effective reproduction number inference](https://doi.org/10.1093/jrsssa/qnag088)**  
+*Journal of the Royal Statistical Society, Series A* (2026), with Volodymyr M. Minin  
+Computationally efficient Gaussian process priors with Markov properties for estimating changes in disease transmission over time.
+
+**[Unjustified Poisson assumptions lead to overconfident estimates of the effective reproductive number](https://doi.org/10.1017/S0950268826101605)**  
+*Epidemiology & Infection* (2026), with Barbora Němcová, Isaac H. Goldstein, Volodymyr M. Minin, and Johannes Bracher  
+Investigation of how observation model assumptions affect uncertainty in estimates of the effective reproduction number.
+
+**[Mapping sub-national respiratory virus circulation in Cambodia using metatranscriptomic sequencing: a multi-center hospital-based surveillance study](https://doi.org/10.1111/irv.70306)**  
+*Influenza and Other Respiratory Viruses* (2026), with Christina Yek and collaborators  
+A study of the geographic and temporal circulation of respiratory viruses in Cambodia.
+
+**[HIV remains a risk factor for unfavorable tuberculosis treatment outcomes in the era of universal access to antiretroviral therapy in Botswana](https://doi.org/10.1101/2025.11.26.25340699)**  
+medRxiv preprint (2025), with [ISI-BUDS](https://ics.uci.edu/2023/09/24/uci-summer-institute-trains-undergraduates-in-biostatistics-and-data-science/) students from summer 2025  
+An analysis of the relationship between HIV and tuberculosis treatment outcomes in Botswana.
