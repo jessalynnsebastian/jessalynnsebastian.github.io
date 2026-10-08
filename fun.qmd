@@ -14,63 +14,29 @@ Below are some non-academic things I am interested in or have been thinking abou
 I learned to crochet when I was very young, but didn't get really into it until around 2022. I've been really enjoying blanket patterns by [Helen Shrimpton](https://crystalsandcrochet.com/product-category/patterns/blankets-afghan/) because of their interesting shapes and variety of stitches.
 :::
 
-::: {.fun-gallery .fun-gallery-featured .fun-gallery-crafts}
-::: {.fun-photo .fun-photo-pair}
-::: {.fun-photo-pair-images}
-::: {.fun-photo-pair-image}
+::: {.fun-gallery .fun-gallery-photos .fun-gallery-crafts}
+::: {.fun-photo}
 ![](img/fun/me_with_blanket.jpeg){fig-alt="At the Orange County Fair with the blanket" loading="lazy"}
 :::
 
-::: {.fun-photo-pair-image}
+::: {.fun-photo}
 ![](img/fun/blanket_with_award.jpeg){fig-alt="The blanket with its ribbon and judges' comments" loading="lazy"}
-:::
-:::
-
-::: {.fun-photo-caption}
-**At the Orange County Fair**
-
-My lantana-inspired blanket won first place in its category in 2026!
-:::
 :::
 
 ::: {.fun-photo}
 ![](img/fun/lantana_blanket.jpeg){loading="lazy"}
-
-::: {.fun-photo-caption}
-**Rose of Avalon in lantana colors**
-
-A full view of the finished blanket
-:::
 :::
 
 ::: {.fun-photo}
 ![](img/fun/green_blanket.jpeg){loading="lazy"}
-
-::: {.fun-photo-caption}
-**The Lost Garden in green and brown**
-
-A gift for my parents that matches their decor
-:::
 :::
 
 ::: {.fun-photo}
 ![](img/fun/pink_blanket.jpeg){loading="lazy"}
-
-::: {.fun-photo-caption}
-**Arcadia in pink and yellow**
-
-A gift for my close friend who couldn't choose between pink and yellow so I said, why not both?!
-:::
 :::
 
 ::: {.fun-photo}
 ![](img/fun/doily.jpeg){loading="lazy"}
-
-::: {.fun-photo-caption}
-**Hearts doily**
-
-My first attempt at using crochet thread
-:::
 :::
 
 :::
@@ -157,25 +123,13 @@ I have loved coffee and tea of all kinds for a very long time, from black light-
 
 :::
 
-::: {.fun-gallery}
+::: {.fun-gallery .fun-gallery-photos .fun-gallery-latte}
 ::: {.fun-photo}
 ![](img/fun/latte_art_1.jpeg){loading="lazy"}
-
-::: {.fun-photo-caption}
-**Tulip practice**
-
-Trying to fill the cup with the design, which is harder than it sounds!
-:::
 :::
 
 ::: {.fun-photo}
 ![](img/fun/latte_art_2.jpeg){loading="lazy"}
-
-::: {.fun-photo-caption}
-**A heart on top**
-
-Tulip on a cortado; first time I got the lines in the base to actually stand out. Pour speed is painfully important...
-:::
 :::
 :::
 :::
@@ -213,7 +167,7 @@ Podcast
 
 ### [Search Engine](https://www.searchengine.show/)
 
-PJ Vogt takes the kinds of questions I might type into a search bar in the middle of the night and follows them much, much further than you expect. Not every episode is a hit, but the good ones are funny, odd, fascinating, and/or unexpectedly moving. I always come out of these having learned something I want to tell my friends.
+PJ Vogt takes the kinds of questions I would search online in the middle of the night and follows them down the rabbit hole. Not every episode is a hit, but the good ones are funny, odd, fascinating, and/or unexpectedly moving. I always come out of these having learned something I want to tell my friends.
 :::
 
 ::: {.fun-media-card}
@@ -227,7 +181,7 @@ Podcast
 
 ### [The Checkup with Doctor Mike](https://podcasts.apple.com/us/podcast/the-checkup-with-doctor-mike/id1646695974)
 
-There are some gems in here. I particularly enjoy the ones where I get to watch a trained doctor take down people spreading insane medical misinformation.
+There are some gems in here. I particularly enjoy the ones where I get to watch a trained medical doctor take down people spreading insane misinformation.
 :::
 
 ::: {.fun-media-card}
@@ -241,7 +195,7 @@ TV
 
 ### [The Pitt](https://tv.apple.com/us/show/the-pitt/umc.cmc.1pz1gv66445ky26uvtiqmrjup)
 
-You might know it from the dozens and dozens of awards it has won since it came out in 2025. The level of realism in treatments made me want to start learning a lot more about anatomy and medicine in general.
+You might know it from the dozens and dozens of awards it has won since it came out in 2025. Deservedly, in my opinion.
 :::
 
 ::: {.fun-media-card}
